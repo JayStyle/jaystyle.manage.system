@@ -7,6 +7,7 @@
 
 echo phpinfo();
 
+//test
 
 
 ?>
